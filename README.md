@@ -1,3 +1,3 @@
 # capstone-project
-restaurant/menu
-restaurant/bookings
+/restaurant/menu/
+/restaurant/booking/)
